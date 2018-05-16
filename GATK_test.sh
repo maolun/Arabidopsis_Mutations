@@ -166,8 +166,3 @@ java -jar $HOME/GenomeAnalysisTK-3.6-0-g89b7209/GenomeAnalysisTK.jar -R /home1/0
 
 
 
-
-wc -l /Volumes/Seagate_8TB_backup/GATK_all.v3.6_107lines/all.v3.6.raw_107line.ann.ud0.indel.default_filter.AC2AN107_DP3.vcf 
-     393 
-wc -l /Volumes/Seagate_8TB_backup/GATK_all.v3.6_107lines/all.v3.6.raw_107line.ann.ud0.snp.default_filter.AC2AN107_DP3.vcf 
-    1694 
